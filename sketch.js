@@ -22,7 +22,7 @@ var gameState = PLAY;
 var playButton;
 function preload(){
  
-  SpaceRockImage = loadImage("spaceRockimage.png");
+  SpaceRockImage = loadImage("spaceRockImage.png");
   mob1Image = loadImage("Mob1Image.png");
   mob2Image = loadImage("Mob2Image.png");
   mob3Image = loadImage("Mob3Image.png");
